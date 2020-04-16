@@ -134,7 +134,7 @@
 ### Privileged Information
 
 1. Learning using privileged information: similarity control and knowledge transfer. Vapnik, Vladimir and Rauf, Izmailov. MLR 2015  
-2. Unifying distillation and privileged information. Lopez-Paz, David et al. ICLR 2016
+2. Unifying distillation and privileged information (&#x1F352). Lopez-Paz, David et al. ICLR 2016
 3. Model compression via distillation and quantization. Polino, Antonio et al. ICLR 2018
 4. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
 5. [noval]Efficient Video Classification Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
