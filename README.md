@@ -112,12 +112,12 @@
 1. Moonshine:Distilling with Cheap Convolutions. Crowley, Elliot J. et al. NIPS 2018 
 2. Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation. Zhang, Linfeng et al. ICCV 2019
 3. Learning Lightweight Lane Detection CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
-4. BAM! Born-Again Multi-Task Networks for Natural Language Understanding. Clark, Kevin et al. ACL 2019,short
+4. BAM! Born-Again Multi-Task Networks for Natural Language Understanding (&#x1F352;). Clark, Kevin et al. ACL 2019,short
 5. Self-Knowledge Distillation in Natural Language Processing. Hahn, Sangchul and Choi, Heeyoul. arXiv:1908.01851
 6. Rethinking Data Augmentation: Self-Supervision and Self-Distillation. Lee, Hankook et al. ICLR 2020
 7. Regularizing Predictions via Class wise Self knowledge Distillation. ICLR 2020
 8. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
-9. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
+9. Self-Distillation Amplifies Regularization in Hilbert Space (&#x1F352;&#x1F352;). Mobahi, Hossein et al. arXiv:2002.05715
 10. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
 11. Regularizing Class-wise Predictions via Self-knowledge Distillation. arXiv:2003.13964
 
@@ -134,7 +134,7 @@
 ### Privileged Information
 
 1. Learning using privileged information: similarity control and knowledge transfer. Vapnik, Vladimir and Rauf, Izmailov. MLR 2015  
-2. Unifying distillation and privileged information (&#x1F352;). Lopez-Paz, David et al. ICLR 2016
+2. Unifying distillation and privileged information (&#x1F352;&#x1F352;). Lopez-Paz, David et al. ICLR 2016
 3. Model compression via distillation and quantization. Polino, Antonio et al. ICLR 2018
 4. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
 5. [noval]Efficient Video Classification Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
